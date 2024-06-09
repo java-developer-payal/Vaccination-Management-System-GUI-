@@ -69,6 +69,9 @@ java VaccineGui
 ## Dependencies
 - Java Swing: For creating the graphical user interface.
 - MySQL Connector/J: For connecting to the MySQL database.
+## ScreenShots
+
+
 
 ## Author
 Payal Saini - java-developer-payal
