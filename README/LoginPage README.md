@@ -72,8 +72,15 @@ java VaccineGui
 ## Screenshots
 o Login Page :
 
+<img src="https://github.com/java-developer-payal/Vaccination-Management-System-GUI-/assets/144053983/ce15ad4d-6521-4531-8dd3-3a04020af52e" width="450" height="400" />
 
-![Screenshot 2024-06-09 122529](https://github.com/java-developer-payal/Vaccination-Management-System-GUI-/assets/144053983/ce15ad4d-6521-4531-8dd3-3a04020af52e)
+
+<img src="https://github.com/java-developer-payal/Vaccination-Management-System-GUI-/assets/144053983/d18aa726-72c1-42bf-b7b3-6850a51b5b15" width="450" height="400" />
+
+## Author
+- Payal Saini - java-developer-payal
+- Feel free to fork this project, open issues, and submit pull requests. Contributions are welcome!
 
 
-![Screenshot 2024-06-09 122631](https://github.com/java-developer-payal/Vaccination-Management-System-GUI-/assets/144053983/d18aa726-72c1-42bf-b7b3-6850a51b5b15)
+
+
