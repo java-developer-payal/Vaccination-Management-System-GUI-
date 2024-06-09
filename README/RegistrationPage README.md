@@ -17,11 +17,11 @@ Registration_page allows users to register their details for vaccination. The in
 - MySQL Database: A MySQL database instance running with the vaccination_database_new database and a registration_data table.
 - MySQL Connector for Java: Ensure you have the MySQL Connector - - JAR file added to your project.
 ## Setup and Installation
-1. Clone the Repository:
+1. Clone the Repository :
 ```
 git clone https://github.com/java-developer-payal/vaccine-management-system-gui.git
 ```
-2. Configure Database:
+2. Configure Database :
 
 - Create a MySQL database named vaccination_database_new.
 - Create a registration_data table with the required columns.
@@ -42,14 +42,14 @@ CREATE TABLE registration_data (
     contactNumber VARCHAR(15)
 );
 ```
-3. Update Database Credentials:
+3. Update Database Credentials :
 
 - Open the Registration_page.java file.
 - Update the following line with your MySQL username and password:
 ```
 Connection conn = DriverManager.getConnection("jdbc:mysql://localhost:3306/vaccination_database_new", "root", "your_password");
 ```
-4. Run the Application:
+4. Run the Application :
 
 - Compile and run the VaccineGui class.
 ```
@@ -57,11 +57,11 @@ javac VaccineGui.java
 java VaccineGui
 ```
 ## Usage
-1. Registration:
+1. Registration :
 
 - Enter your personal and medical information in the provided fields.
 - Click the "Submit" button to save your details to the database.
 - A success message will be displayed upon successful data insertion.
-2. Navigate Back:
+2. Navigate Back :
 
 - Click the "Back" button to return to the main menu.
