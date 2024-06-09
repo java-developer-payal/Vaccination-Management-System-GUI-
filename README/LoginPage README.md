@@ -19,11 +19,11 @@ Login_page handles user login to the application using username and password.
 - MySQL Database: A MySQL database instance running with the vaccination_database_new database and a login_data table.
 - MySQL Connector for Java: Ensure you have the MySQL Connector JAR file added to your project.
 ## Setup and Installation
-1. Clone the Repository:
+1. Clone the Repository :
 ```
 git clone https://github.com/your-username/vaccine-management-system-gui.git
 ```
-2. Configure Database:
+2. Configure Database :
 
 - Create a MySQL database named vaccination_database_new.
 - Create a login_data table with columns username and password.
@@ -40,14 +40,14 @@ CREATE TABLE login_data (
 ```
 INSERT INTO login_data (username, password) VALUES ('testuser', 'password123');
 ```
-3. Update Database Credentials:
+3. Update Database Credentials :
 
 - Open the Login_page.java file.
 - Update the following line with your MySQL username and password:
 ```
 connection = DriverManager.getConnection("jdbc:mysql://localhost:3306/vaccination_database_new", "root", "your_password");
 ```
-4. Run the Application:
+4. Run the Application :
 
 Compile and run the VaccineGui class.
 ```
@@ -55,13 +55,13 @@ javac VaccineGui.java
 java VaccineGui
 ```
 ## Usage
-1. Login:
+1. Login :
 
 - Enter your username and password.
 - Click the "LOGIN" button.
 - If the credentials are correct, you will be logged in, and a new Menu_page will be displayed.
 - If the credentials are incorrect, an error message will be displayed.
-2. Show/Hide Password:
+2. Show/Hide Password :
 
 - Check the "Show Password" checkbox to make the password visible.
 - Uncheck the checkbox to hide the password.
