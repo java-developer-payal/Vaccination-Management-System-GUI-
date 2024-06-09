@@ -70,7 +70,16 @@ java VaccineGui
 - Java Swing: For creating the graphical user interface.
 - MySQL Connector/J: For connecting to the MySQL database.
 ## ScreenShots
+o Registration Page :
 
+<img src="https://github.com/java-developer-payal/Vaccination-Management-System-GUI-/assets/144053983/913a6f57-64e6-4f94-9911-2b81f0f85d55" width="450" 
+     height="400" />
+
+<img src="https://github.com/java-developer-payal/Vaccination-Management-System-GUI-/assets/144053983/a7bc028a-31d4-49d1-b910-3aaa4373e422" width="450" 
+     height="400" />
+
+<img src="https://github.com/java-developer-payal/Vaccination-Management-System-GUI-/assets/144053983/ec677f80-5bfe-4f4a-b5a0-d526e6226bee" width="450" 
+     height="400" />
 
 
 ## Author
