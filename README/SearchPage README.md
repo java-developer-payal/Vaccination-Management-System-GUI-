@@ -7,7 +7,7 @@ The Search_page class provides functionality to search patient data based on dif
 - MySQL Server
 - MySQL Connector/J (JDBC Driver)
 # Setup Instructions
-- Database Setup :- 
+### Database Setup :- 
 1. Install MySQL Server: If you haven't already, download and install MySQL Server from the official website.
 
 2. Create Database and Table:
@@ -36,7 +36,7 @@ CREATE TABLE registration_data (
 ```
 3. Insert Sample Data: Insert some sample data into the registration_data table to test the search functionality.
 
-- Application Setup :-
+### Application Setup :-
 1. Clone the Repository: Clone this repository to your local machine.
 ```
 git clone https://github.com/java-developer-payal/vaccine-management-system.git
@@ -52,7 +52,7 @@ cd vaccine-management-system
 ```
 Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/vaccination_database_new", "root", "yourpassword");
 ```
-- Run the Application :-
+### Run the Application :-
 1. Compile and Run: Compile and run the application using your preferred IDE or command line.
 ```
 javac -cp ".:path/to/mysql-connector-java-x.x.xx-bin.jar" vaccine/system/gui/Search_page.java
