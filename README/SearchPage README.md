@@ -87,3 +87,18 @@ Search Functionality:
 - Invalid Aadhar Number: Enter a valid 12-digit Aadhar number for search.
 # Screenshots 
 
+
+<img src="https://github.com/java-developer-payal/Vaccination-Management-System-GUI-/assets/144053983/622c37ad-411b-42b1-a5b0-518b15c25a5a" width="450" height="400" />
+<img src="https://github.com/java-developer-payal/Vaccination-Management-System-GUI-/assets/144053983/30071c7f-f637-46cd-9fda-0b137935f845" width="450" height="400" />
+
+
+## Contributing
+
+Contributions are welcome! Please follow these steps:
+
+1. Fork the repository.
+2. Create a feature branch (git checkout -b feature/YourFeature).
+3. Commit your changes (git commit -m 'Add YourFeature').
+4. Push to the branch (git push origin feature/YourFeature).
+5. Open a pull request.
+
