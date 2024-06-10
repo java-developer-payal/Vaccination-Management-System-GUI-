@@ -24,6 +24,10 @@ The Update_page class enables users to update various fields in the patient reco
 - Empty Aadhar Number: Ensure to provide a valid 12-digit Aadhar number.
 ## Screenshots
 
+<img src="https://github.com/java-developer-payal/Vaccination-Management-System-GUI-/assets/144053983/a9f807b6-b485-43cb-8a14-1efe36259684" width="450" height="400" />
+
+<img src="https://github.com/java-developer-payal/Vaccination-Management-System-GUI-/assets/144053983/f676e0de-2eec-406c-bc5e-c1bdf3500668" width="450" height="400" />
+
 ## Contributing
 - Feel free to fork this project, open issues, and submit pull requests. Contributions are welcome!
 
